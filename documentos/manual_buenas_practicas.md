@@ -21,3 +21,20 @@ Un documento universitario en grupo debe leerse como una obra escrita por un sol
 * Redactar en **tercera persona impersonal** (*"Se analizó..."*, *"El presente estudio propone..."*) evitando expresiones coloquiales o en primera persona singular.
 * Definir las siglas la primera vez que aparecen en el texto: por ejemplo, *Control de Versiones (CV)* o *Normas de la Asociación Americana de Psicología (APA)*.
 * Preferir párrafos concisos de entre 4 y 7 líneas con conectores lógicos adecuados.
+
+---
+
+## 5. Citación y Referencias Bibliográficas (Normas APA 7.ª Edición)
+
+Todo dato, concepto o metodología tomada de otros autores debe acreditarse correctamente para garantizar el rigor académico y evitar el plagio.
+
+### 5.1 Tipos de Citas en el Texto
+* **Cita parafraseada (recomendada):** Se expresa la idea del autor con palabras propias manteniendo el sentido original.  
+  *Ejemplo:* Según Chacon y Straub (2020), el control de versiones distribuido facilita la trazabilidad documental en equipos multidisciplinarios.
+* **Cita textual corta (menos de 40 palabras):** Se incorpora dentro del párrafo entre comillas dobles indicando autor, año y número de página.  
+  *Ejemplo:* "La gestión estructurada de repositorios reduce los errores de integración en proyectos colaborativos" (Pérez, 2023, p. 45).
+* **Cita textual larga (40 palabras o más):** Se escribe en un bloque independiente con sangría izquierda de 1,27 cm, sin comillas y con el punto final antes del paréntesis de la fuente.
+
+### 5.2 Lista de Referencias
+* Se ubica al final del documento ordenada alfabéticamente por el apellido del primer autor y con **sangría francesa** (1,27 cm).
+* Todo autor citado en el cuerpo del texto debe aparecer en la lista de referencias y viceversa. *(Ver guía ampliada en `referencias/guia_apa_7ma_edicion.md`)*.
