@@ -40,3 +40,21 @@ Dejar la integración del documento para las últimas horas antes de la entrega 
 ### 2.2 Buenas Prácticas de Seguimiento
 * Dividir el trabajo en entregables pequeños (hitos cada 2 o 3 días) reflejados en un tablero Kanban (*Por hacer*, *En progreso*, *Finalizado*).
 * Establecer un **cierre interno de redacción** al menos 48 horas antes de la entrega oficial para dedicar ese margen exclusivamente a revisión y formato.
+
+---
+
+## 3. Herramientas Colaborativas y Control de Versiones
+
+Trabajar enviando archivos por mensajería con nombres como `Trabajo_Final_v2_ahora_si.docx` genera pérdida de información y confusión. El uso combinado de plataformas en la nube y control de versiones resuelve este problema.
+
+### 3.1 Ecosistema Recomendado
+* **GitHub (Control de versiones y gestión):** Centraliza el historial de cambios, asigna tareas mediante *Issues*, organiza el avance en *Projects (Kanban)* y valida cada aporte antes de integrarlo a la versión principal (`main`).
+* **Google Docs / Word (Edición auxiliar):** Útil para borradores rápidos o exportación final a PDF cuando se requieren plantillas institucionales específicas.
+* **Markdown (`.md`):** Formato ligero de texto plano ideal para documentación en GitHub, ya que permite visualizar exactamente qué líneas se agregaron o modificaron en cada revisión.
+
+### 3.2 Flujo Colaborativo en GitHub (Sin Programación)
+1. **Ramas independientes:** Cada estudiante edita su sección en una rama propia para no alterar la versión estable (`main`).
+2. **Commits descriptivos:** Guardar cambios frecuentes con mensajes claros que expliquen qué se hizo (ejemplo: *Añade tabla de distribución de tiempos en sección 2*).
+3. **Pull Requests (PR) y revisión por pares:** Antes de fusionar una rama con `main`, el compañero revisa el texto, sugiere correcciones en los comentarios y aprueba la integración.
+4. **Resolución de conflictos:** Si dos integrantes editan la misma línea de un archivo, GitHub señala el conflicto (`<<<<<<<`, `=======`, `>>>>>>>`) para decidir qué versión conservar de forma manual y limpia antes de finalizar la fusión.
+5. **Etiquetado de versiones (`Tags` y `CHANGELOG.md`):** Cada hito consolidado se etiqueta (`v1.0` para la primera versión completa, `v1.1` para ajustes tras revisión) documentando los cambios en `CHANGELOG.md`.
