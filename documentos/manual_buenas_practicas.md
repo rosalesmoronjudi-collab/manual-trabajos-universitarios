@@ -38,3 +38,22 @@ Todo dato, concepto o metodología tomada de otros autores debe acreditarse corr
 ### 5.2 Lista de Referencias
 * Se ubica al final del documento ordenada alfabéticamente por el apellido del primer autor y con **sangría francesa** (1,27 cm).
 * Todo autor citado en el cuerpo del texto debe aparecer en la lista de referencias y viceversa. *(Ver guía ampliada en `referencias/guia_apa_7ma_edicion.md`)*.
+
+
+---
+
+## 6. Presentación Escrita y Defensa Oral en Grupo
+
+La etapa final convierte el trabajo técnico en un entregable profesional listo para evaluación académica.
+
+### 6.1 Checklist de Control de Calidad (Antes de Exportar a PDF)
+- [ ] **Portada institucional:** Incluye logo universitario, facultad, escuela, título del proyecto, integrantes, docente, lugar y año.
+- [ ] **Índices actualizados:** Índice general, índice de tablas e índice de figuras coinciden exactamente con la numeración de páginas.
+- [ ] **Integridad visual:** Ninguna tabla o título queda cortado al final de una página; todas las imágenes tienen buena resolución.
+- [ ] **Coherencia de citas:** Todas las fuentes mencionadas están completas en la sección de referencias.
+- [ ] **Exportación limpia:** El archivo PDF final se revisó página por página antes de subirlo al aula virtual o repositorio.
+
+### 6.2 Buenas Prácticas para la Defensa Oral
+* **Diapositivas ejecutivas:** Aplicar la regla de síntesis visual (máximo 5 a 6 líneas por lámina, priorizando esquemas, tablas resumen y diagramas sobre bloques largos de texto).
+* **Distribución equitativa:** Asignar tiempos claros a cada expositor (por ejemplo, 5 minutos por integrante) y ensayar las transiciones entre compañeros.
+* **Dominio integral:** Aunque cada integrante haya redactado secciones específicas, todo el equipo debe conocer el contenido completo del manual para responder con solvencia a las preguntas del jurado o docente.
