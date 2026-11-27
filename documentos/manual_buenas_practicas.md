@@ -57,3 +57,6 @@ La etapa final convierte el trabajo técnico en un entregable profesional listo 
 * **Diapositivas ejecutivas:** Aplicar la regla de síntesis visual (máximo 5 a 6 líneas por lámina, priorizando esquemas, tablas resumen y diagramas sobre bloques largos de texto).
 * **Distribución equitativa:** Asignar tiempos claros a cada expositor (por ejemplo, 5 minutos por integrante) y ensayar las transiciones entre compañeros.
 * **Dominio integral:** Aunque cada integrante haya redactado secciones específicas, todo el equipo debe conocer el contenido completo del manual para responder con solvencia a las preguntas del jurado o docente.
+
+
+Co-authored-by: Víctor Materán
